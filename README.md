@@ -1,5 +1,7 @@
-## 👩‍💻 About:
-Welcome to the coding chronicles of Sanjana , I'm a passionate developer on a mission to explore the endless possibilities of software galaxies & delve into a world where ideas meet innovation, and lines of code shape the future ✨
+# <h1 align="center">Hey there 👋</h1>
+
+Welcome to the coding chronicles of Sanjana , I'm a passionate developer on a mission to explore the endless possibilities of software galaxies & delve into a world where ideas meet innovation, and lines of code shape the future.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/sanjana-singh-426321228/)
