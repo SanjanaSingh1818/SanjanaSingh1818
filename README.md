@@ -35,7 +35,7 @@ Focused on backend systems, REST APIs & performance optimization — improved la
 ### Tech & Problem Solving
 
 | Tech Stack | Problem Solving |
-|---------------|------------------|
+|----------------------|-----------------------|
 | **Languages:** JS, TS, Java, C++ <br> **Frontend:** React, Next.js, Tailwind, Bootstrap <br> **Backend:** Node.js, Express, REST APIs, Auth <br> **DB:** MongoDB, MySQL <br> **Tools:** Git, Postman, Vercel | Solved **300+ DSA problems** <br> LeetCode + GeeksforGeeks <br> Strong in DS, Algorithms & Debugging |
 
 ---
