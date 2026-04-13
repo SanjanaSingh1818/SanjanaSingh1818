@@ -1,11 +1,11 @@
 <h1 align="center">Sanjana Singh 👩‍💻</h1>
 
 <p align="center">
-Software Development Engineer • MERN Stack • Backend & Full Stack
+Software Development Engineer • Backend & Full Stack • MERN Stack
 </p>
 
 <p align="center">
-<i>Building scalable systems. Optimizing performance. Writing clean code.</i>
+<i>Designing systems. Solving problems. Shipping clean, scalable code.</i>
 </p>
 
 <p align="center">
@@ -20,22 +20,31 @@ Software Development Engineer • MERN Stack • Backend & Full Stack
 ---
 
 ### About
-
-SDE with 1+ year experience building scalable web applications and backend systems.  
-Improved system performance by **30%** through API and query optimization.
-
----
-
-### Tech
-
-`JavaScript` `TypeScript` `Java` `C++`  
-`React` `Next.js` `Node.js` `Express`  
-`MongoDB` `MySQL`  
+SDE with 1+ year experience building scalable web applications.  
+Focused on backend systems, REST APIs, and performance optimization — improved latency by **30%**.
 
 ---
 
-### Problem Solving
+### Tech | Problem Solving
 
-300+ DSA problems solved (LeetCode + GeeksforGeeks)
+**Tech:**  
+`JavaScript` `TypeScript` `Java` `C++` | `React` `Next.js` `Tailwind` | `Node.js` `Express` | `MongoDB` `MySQL`  
+
+**DSA:**  
+300+ problems solved (LeetCode + GFG) | Strong in DSA & debugging  
 
 ---
+
+### Key Work
+
+• Managed backend systems handling **11K+ products**  
+• Built scalable REST APIs & real-time data flow  
+• Implemented authentication & payment systems  
+• Improved performance by **30%**  
+
+---
+
+### Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanjanaSingh1818&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSingh1818&layout=compact&hide_border=true)
