@@ -1,11 +1,11 @@
 <h1 align="center">Sanjana Singh 👩‍💻</h1>
 
 <p align="center">
-Software Development Engineer • Backend & Full Stack • MERN Stack
+Software Development Engineer • Building Scalable Systems • Backend & Full Stack
 </p>
 
 <p align="center">
-<i>Designing systems. Solving problems. Shipping clean, scalable code.</i>
+<i>Focused on performance, clean architecture, and real-world impact.</i>
 </p>
 
 <p align="center">
@@ -40,10 +40,8 @@ Focused on backend systems, REST APIs & performance optimization — improved la
 
 ---
 
-### Key Work
+### Engineering Snapshot
 
-• Managed backend for **11K+ products** (E-commerce)  
-• Built scalable REST APIs & integrations  
-• Implemented auth & payment workflows  
-• Improved performance by **30%**
-
+| Key Work | GitHub Stats |
+|----------|-------------|
+| • Managed backend for **11K+ products** (E-commerce) <br> • Built scalable REST APIs & integrations <br> • Implemented auth & payment workflows <br> • Improved performance by **30%** | ![](https://github-readme-streak-stats.herokuapp.com/?user=SanjanaSingh1818&hide_border=true) <br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSingh1818&layout=compact&hide_border=true) |
