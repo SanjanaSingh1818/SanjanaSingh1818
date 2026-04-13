@@ -35,7 +35,7 @@ Focused on backend systems, REST APIs & performance optimization — improved la
 ### Tech & Problem Solving
 
 | Tech Stack | Problem Solving |
-|-----------|----------------|
+|---------------|------------------|
 | **Languages:** JS, TS, Java, C++ <br> **Frontend:** React, Next.js, Tailwind, Bootstrap <br> **Backend:** Node.js, Express, REST APIs, Auth <br> **DB:** MongoDB, MySQL <br> **Tools:** Git, Postman, Vercel | Solved **300+ DSA problems** <br> LeetCode + GeeksforGeeks <br> Strong in DS, Algorithms & Debugging |
 
 ---
@@ -43,5 +43,5 @@ Focused on backend systems, REST APIs & performance optimization — improved la
 ### Engineering Snapshot
 
 | Key Work | GitHub Stats |
-|----------|-------------|
+|-----------|-------------|
 | • Managed backend for **11K+ products** (E-commerce) <br> • Built scalable REST APIs & integrations <br> • Implemented auth & payment workflows <br> • Improved performance by **30%** | ![](https://github-readme-streak-stats.herokuapp.com/?user=SanjanaSingh1818&hide_border=true) <br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSingh1818&layout=compact&hide_border=true) |
