@@ -1,11 +1,11 @@
 <h1 align="center">Sanjana Singh 👩‍💻</h1>
 
 <p align="center">
-Software Development Engineer • Backend & Full Stack • MERN Stack
+Software Development Engineer • MERN Stack • Backend & Full Stack
 </p>
 
 <p align="center">
-<i>Designing systems. Solving problems. Shipping clean, scalable code.</i>
+<i>Building scalable systems. Optimizing performance. Writing clean code.</i>
 </p>
 
 <p align="center">
@@ -21,50 +21,21 @@ Software Development Engineer • Backend & Full Stack • MERN Stack
 
 ### About
 
-Software Development Engineer with 1+ year of experience building and optimizing scalable web applications.
-
-Focused on backend systems, REST API design, and performance optimization — improved system latency by **30%** through efficient query handling and API optimization.
-
-Experienced in developing full-stack applications with clean architecture, secure authentication, and real-world deployment.
+SDE with 1+ year experience building scalable web applications and backend systems.  
+Improved system performance by **30%** through API and query optimization.
 
 ---
 
-### Tech Stack
+### Tech
 
-**Languages**  
 `JavaScript` `TypeScript` `Java` `C++`  
-
-**Frontend**  
-`React.js` `Next.js` `Tailwind CSS` `Bootstrap`  
-
-**Backend**  
-`Node.js` `Express.js` `REST APIs` `Authentication`  
-
-**Databases**  
+`React` `Next.js` `Node.js` `Express`  
 `MongoDB` `MySQL`  
-
-**Tools**  
-`Git` `GitHub` `Postman` `Vercel`  
-
----
-
-### Key Work
-
-• Built backend systems managing **11K+ products** in an e-commerce platform  
-• Designed scalable REST APIs for dynamic data flow and integrations  
-• Implemented secure authentication & payment workflows  
-• Optimized application performance improving responsiveness by **30%**  
 
 ---
 
 ### Problem Solving
 
-Solved **300+ DSA problems** across LeetCode & GeeksforGeeks  
-Strong in data structures, algorithms, and debugging  
+300+ DSA problems solved (LeetCode + GeeksforGeeks)
 
 ---
-
-### GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=SanjanaSingh1818&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSingh1818&layout=compact&hide_border=true)
