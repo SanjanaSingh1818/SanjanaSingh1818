@@ -15,14 +15,20 @@ Software Development Engineer • Backend & Full Stack • MERN Stack
 <a href="https://thisissanjana.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" />
 </a>
+<a href="https://leetcode.com/u/Sanjana_18/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/sanjanasingh18?tab=activity">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white" />
+</a>
 </p>
 
 ---
 
 ### About
 
-SDE with 1+ year experience building scalable web apps.  
-Focused on backend systems, REST APIs & performance optimization — improved latency by **30%**.
+SDE with 1+ year experience building scalable web apps  
+Focused on backend systems, REST APIs & performance optimization — improved latency by **30%**
 
 ---
 
@@ -39,11 +45,6 @@ Focused on backend systems, REST APIs & performance optimization — improved la
 • Managed backend for **11K+ products** (E-commerce)  
 • Built scalable REST APIs & integrations  
 • Implemented auth & payment workflows  
-• Improved performance by **30%**  
+• Improved performance by **30%**
 
 ---
-
-### Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=SanjanaSingh1818&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSingh1818&layout=compact&hide_border=true)
