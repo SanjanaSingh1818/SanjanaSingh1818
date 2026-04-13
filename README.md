@@ -3,7 +3,9 @@
 <p align="center">
 Software Development Engineer • Backend & Full Stack • MERN
 </p>
-
+<p align="center">
+  <i>Designing systems. Solving problems. Shipping clean code.</i>
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/sanjana-singh-426321228/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
