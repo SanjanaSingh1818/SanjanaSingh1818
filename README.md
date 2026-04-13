@@ -1,64 +1,52 @@
-<h1 align="center">Hi, I'm Sanjana Singh 👩‍💻</h1>
+<h1 align="center">Sanjana Singh 👩‍💻</h1>
 
 <p align="center">
-Software Development Engineer | Backend & Full Stack | MERN Stack
+Software Development Engineer • Backend & Full Stack • MERN
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sanjana-singh-426321228/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+<a href="https://thisissanjana.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+### About
 
-I’m a Software Development Engineer with 1+ year of experience building and optimizing scalable web applications.
+Building scalable web applications with a focus on backend systems, API design, and performance.
 
-I specialize in backend development, REST API design, and performance optimization. At my current role, I improved system performance by **30%** by optimizing API response handling and database queries.
-
-I enjoy solving real-world engineering problems, debugging systems, and building applications that are efficient, reliable, and production-ready.
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** JavaScript, TypeScript, Java, C++  
-**Frontend:** React.js, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, Postman, Vercel  
+Improved system latency by **30%** through query and API optimization.  
+Comfortable working across the stack with production-level applications.
 
 ---
 
-## 📌 Featured Projects
+### Tech
 
-### 🛒 DackDax – E-Commerce Platform
-- Built backend services managing 11K+ products using MongoDB  
-- Designed REST APIs for product catalog and order management  
-- Implemented authentication and payment integration  
-- Improved UI responsiveness and frontend performance  
-
-### 🏢 Backspace Coworking
-- Developed admin dashboard APIs for real-time office listing updates  
-- Enabled dynamic data synchronization using REST APIs  
-
-### 🎓 EduKnit – Learning Platform
-- Built full-stack MERN application with authentication and payments  
-- Designed secure user workflows and backend data handling  
+`JavaScript` `TypeScript` `Java` `C++`  
+`React` `Next.js` `Node.js` `Express`  
+`MongoDB` `MySQL`  
 
 ---
 
-## 🧠 Problem Solving
+### Work Highlights
 
-- Solved 300+ DSA problems across LeetCode & GeeksforGeeks  
-- Strong in data structures, algorithms, and logical problem solving  
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-singh-426321228/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://thisissanjana.vercel.app/)
+• Built backend systems managing **11K+ products** (E-commerce platform)  
+• Designed REST APIs for real-time data flow & integrations  
+• Implemented authentication & secure payment workflows  
 
 ---
 
-## 📊 GitHub Stats
+### Problem Solving
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SanjanaSingh1818&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSingh1818&theme=default&hide_border=true&layout=compact)
+300+ DSA problems solved across LeetCode & GeeksforGeeks  
+
+---
+
+### Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanjanaSingh1818&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSingh1818&layout=compact&hide_border=true)
