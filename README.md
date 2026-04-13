@@ -26,7 +26,6 @@ Software Development Engineer • Building Scalable Systems • Backend & Full S
 ---
 
 ### About
-
 SDE with 1+ year experience building scalable web apps  
 Focused on backend systems, REST APIs & performance optimization — improved latency by **30%**
 
@@ -34,14 +33,51 @@ Focused on backend systems, REST APIs & performance optimization — improved la
 
 ### Tech & Problem Solving
 
-| Tech Stack | Problem Solving |
-|----------------------|-----------------------|
-| **Languages:** JS, TS, Java, C++ <br> **Frontend:** React, Next.js, Tailwind, Bootstrap <br> **Backend:** Node.js, Express, REST APIs, Auth <br> **DB:** MongoDB, MySQL <br> **Tools:** Git, Postman, Vercel | Solved **300+ DSA problems** <br> LeetCode + GeeksforGeeks <br> Strong in DS, Algorithms & Debugging |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Tech Stack**  
+Languages: JS, TS, Java, C++  
+Frontend: React, Next.js, Tailwind, Bootstrap  
+Backend: Node.js, Express, REST APIs, Auth  
+DB: MongoDB, MySQL  
+Tools: Git, Postman, Vercel  
+
+</td>
+
+<td width="50%" valign="top">
+
+**Problem Solving**  
+Solved **300+ DSA problems**  
+LeetCode + GeeksforGeeks  
+Strong in DS, Algorithms & Debugging  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Engineering Snapshot
 
-| Key Work | GitHub Stats |
-|-----------|-------------|
-| • Managed backend for **11K+ products** (E-commerce) <br> • Built scalable REST APIs & integrations <br> • Implemented auth & payment workflows <br> • Improved performance by **30%** | ![](https://github-readme-streak-stats.herokuapp.com/?user=SanjanaSingh1818&hide_border=true) <br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSingh1818&layout=compact&hide_border=true) |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Key Work**  
+• Managed backend for **11K+ products** (E-commerce)  
+• Built scalable REST APIs & integrations  
+• Implemented auth & payment workflows  
+• Improved performance by **30%**
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaSingh1818&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSingh1818&layout=compact&hide_border=true" width="100%" />
+
+</td>
+</tr>
+</table>
