@@ -47,4 +47,3 @@ Focused on backend systems, REST APIs & performance optimization — improved la
 • Implemented auth & payment workflows  
 • Improved performance by **30%**
 
----
