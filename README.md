@@ -20,26 +20,25 @@ Software Development Engineer • Backend & Full Stack • MERN Stack
 ---
 
 ### About
-SDE with 1+ year experience building scalable web applications.  
-Focused on backend systems, REST APIs, and performance optimization — improved latency by **30%**.
+
+SDE with 1+ year experience building scalable web apps.  
+Focused on backend systems, REST APIs & performance optimization — improved latency by **30%**.
 
 ---
 
-### Tech | Problem Solving
+### Tech & Problem Solving
 
-**Tech:**  
-`JavaScript` `TypeScript` `Java` `C++` | `React` `Next.js` `Tailwind` | `Node.js` `Express` | `MongoDB` `MySQL`  
-
-**DSA:**  
-300+ problems solved (LeetCode + GFG) | Strong in DSA & debugging  
+| Tech Stack | Problem Solving |
+|-----------|----------------|
+| **Languages:** JS, TS, Java, C++ <br> **Frontend:** React, Next.js, Tailwind, Bootstrap <br> **Backend:** Node.js, Express, REST APIs, Auth <br> **DB:** MongoDB, MySQL <br> **Tools:** Git, Postman, Vercel | Solved **300+ DSA problems** <br> LeetCode + GeeksforGeeks <br> Strong in DS, Algorithms & Debugging |
 
 ---
 
 ### Key Work
 
-• Managed backend systems handling **11K+ products**  
-• Built scalable REST APIs & real-time data flow  
-• Implemented authentication & payment systems  
+• Managed backend for **11K+ products** (E-commerce)  
+• Built scalable REST APIs & integrations  
+• Implemented auth & payment workflows  
 • Improved performance by **30%**  
 
 ---
